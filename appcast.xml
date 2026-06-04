@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Yeti</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 04 Jun 2026 16:12:28 -0600</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/ClosetCreeper/Yeti/main/Yeti-1.0.dmg" length="5415672" type="application/octet-stream" sparkle:edSignature="JPlgpAI4j2CcpeHxJ+jcruM9gcBHPq7AQP5HP8+Acea3b4y67FtDNDWZS82kF85lbotLYLpcKOI2BfyPT8o+CQ=="/>
+        </item>
+    </channel>
+</rss>
