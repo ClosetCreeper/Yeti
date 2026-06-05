@@ -9,9 +9,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.1/Yeti-1.0.1.dmg" length="4026934" type="application/octet-stream" sparkle:edSignature="UP8JL7A46M3aql80JLf0jIIt8jK9rFrZsW9Y5MMfJGmB2t/wbk0U5vcATLLRT9qo8KZV+Nwa3lnXXjAlKpReBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/ClosetCreeper/Yeti/main/Yeti2-1.delta" sparkle:deltaFrom="1" length="276790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="S5tCr1a56n4R0FGy0EpxGVojPmJ1SxLtAoRIO1WULBT6eJqQaCSBKXW4EBzgyX/7osJmXEE6Tl94nnY14a39Bg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0</title>
