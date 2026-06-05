@@ -3,37 +3,12 @@
     <channel>
         <title>Yeti</title>
         <item>
-            <title>1.0</title>
+            <title>1.0.4</title>
             <pubDate>Fri, 05 Jun 2026 10:30:48 -0600</pubDate>
             <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.4/Yeti-1.0.4.dmg" length="4033884" type="application/octet-stream" sparkle:edSignature="gYlReVauv9jUDpRSjNqPhFkMaiKSdfKz3i8iWOYB32/Z6UpAX/kMlhYHsD8+znB/Y9Y7+fUICjBVWPVlSCh+AA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.4/Yeti4-3.delta" sparkle:deltaFrom="3" length="122926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7YA6FtxXSM2CUUwQDNPjXqKdkVknMcCqxICvKDuxJ2xK80JX50rzSm+jVKCjNdLAJWsFdQKxtaEYAiTNQktuBw=="/>
-                <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.4/Yeti4-2.delta" sparkle:deltaFrom="2" length="153586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AxRXAP9FFb8I9QILC52Q2kLK/kmy/jYMHFEcIUtHF6P2L24nzIIiKNybGDQOal+i3HZP1IxVNbxzsbpj+3RRBg=="/>
-                <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.4/Yeti4-1.delta" sparkle:deltaFrom="1" length="298214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z6sYlYZTfP4w4wPCAb5PD/QwHFVZJ3E1W1fBdh4ZA2hGU98qgRok8eLeoiOdFdcB/mr6hv/ZsOOzlIjYMqaIBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 05 Jun 2026 10:16:21 -0600</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.4/Yeti-1.0.2.dmg" length="4035871" type="application/octet-stream" sparkle:edSignature="m5yrP/i9H4f3lNLoiIQkb58I36g1xhS+Pq45AxYzc9adnlWJ1/a6RSGKUMTpmBaaPaMcymvLM0lqMZWmctySBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.2/Yeti3-2.delta" sparkle:deltaFrom="2" length="150714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TwR+XPaIxv0EYdg263zktAqTu+Xap90fVckeM0MAYTCGthzoty552eZr5ZWt6nsdZVWecA47z174S3JN+/f+Dg=="/>
-                <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.2/Yeti3-1.delta" sparkle:deltaFrom="1" length="296654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h+U0D2icyUZTdb999N4T0kyY7Juzg0+vBPoS27Wc2zutB3fEcpvxFdzGJbL4itRgjuDhwpwmDrKqyK34J5xhBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 05 Jun 2026 09:10:37 -0600</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.4/Yeti-1.0.1.dmg" length="4026934" type="application/octet-stream" sparkle:edSignature="UP8JL7A46M3aql80JLf0jIIt8jK9rFrZsW9Y5MMfJGmB2t/wbk0U5vcATLLRT9qo8KZV+Nwa3lnXXjAlKpReBA=="/>
         </item>
     </channel>
 </rss>
