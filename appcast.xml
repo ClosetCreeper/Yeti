@@ -4,11 +4,24 @@
         <title>Yeti</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 05 Jun 2026 20:36:24 -0600</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.7/Yeti-1.0.7.dmg" length="5274844" type="application/octet-stream" sparkle:edSignature="lSa9udinrz98OZYl4me7ApWd+CSKm4ed50zqVV7INPEs1msvxpGV+e6PQOpInazC2KPfvscogp+4ACmeij1CAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.7/Yeti7-6.delta" sparkle:deltaFrom="6" length="1076170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XFsw1qzmnwdRmiTMtjmZlqoTfeV/UeINzmpzuzErrNAoHRvEwmSz/RboABXnAFY/1XpML+ezRXRMuDGc3XUUCg=="/>
+                <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.7/Yeti7-5.delta" sparkle:deltaFrom="5" length="1284418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r1YntEArdSRek1rmbbzZgNFYculnZDVwQPjzvX6dBgsWSZk6IPNVJ+TQednaWlKwcmK6OZq16lMlJ5x8eoenBA=="/>
+                <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.7/Yeti7-4.delta" sparkle:deltaFrom="4" length="1285958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+B8DQqyuo4kiGtjdWr6gHRhJi4nr+g7pPEbzEBvmxelc6jT0wCZbpiPMUSk7D7fGXsiCgDDqqmEm/mklfK37BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 05 Jun 2026 17:15:34 -0600</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.6/Yeti-1.0.6.dmg" length="4165922" type="application/octet-stream" sparkle:edSignature="MLZm5/SUFQg7/vZNNquHbS89aijgIfQIN9s7cXfldPMOm7JyXTOohbujvvgvvnAYA7SkEu6laReRrXkEh1ozAA=="/>
+            <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.7/Yeti-1.0.6.dmg" length="4165922" type="application/octet-stream" sparkle:edSignature="MLZm5/SUFQg7/vZNNquHbS89aijgIfQIN9s7cXfldPMOm7JyXTOohbujvvgvvnAYA7SkEu6laReRrXkEh1ozAA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.6/Yeti6-5.delta" sparkle:deltaFrom="5" length="404046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="87LRq7LvGn5D9gcv/PeeQuerwe5AFwC0CPAcEjP1ygSbtJZc3qqlwWXFPi98WCXil5F8J03DOkSI3dxcnJVXBA=="/>
                 <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.6/Yeti6-4.delta" sparkle:deltaFrom="4" length="404970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/qYsuIPzX8kyYoGq/D+Jpg0GyeTX7eXI0739qNVYW6F6BdN8htde0/9GEoSsS1bYL4NPr40mdMJICUltxNWmAg=="/>
@@ -20,18 +33,10 @@
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.6/Yeti-1.0.5.dmg" length="4033894" type="application/octet-stream" sparkle:edSignature="ZHh9hl9Dx8Jy+3PZ/3W4QwvHz2UVBf9LphXpwd77pm8xkR+Zer3jFdBf0WUzfGr842W8fM/cIk0jWzU7Hh8HDQ=="/>
+            <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.7/Yeti-1.0.5.dmg" length="4033894" type="application/octet-stream" sparkle:edSignature="ZHh9hl9Dx8Jy+3PZ/3W4QwvHz2UVBf9LphXpwd77pm8xkR+Zer3jFdBf0WUzfGr842W8fM/cIk0jWzU7Hh8HDQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.5/Yeti5-4.delta" sparkle:deltaFrom="4" length="12506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HZ7mROBFWzk+HSIFDGugIN5w3OokmpNGfkCe7wa6GjkUdjIsebDgi6LEZ6uT6FrN8ABc2DwRd2DsvPGL0I+rAw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.4</title>
-            <pubDate>Fri, 05 Jun 2026 10:30:48 -0600</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ClosetCreeper/Yeti/releases/download/1.0.6/Yeti-1.0.4.dmg" length="4033884" type="application/octet-stream" sparkle:edSignature="gYlReVauv9jUDpRSjNqPhFkMaiKSdfKz3i8iWOYB32/Z6UpAX/kMlhYHsD8+znB/Y9Y7+fUICjBVWPVlSCh+AA=="/>
         </item>
     </channel>
 </rss>
